@@ -1,2 +1,4 @@
 # Hello_World
-just as it's traditional
+just since it's traditional
+
+always looking to learn new things!
